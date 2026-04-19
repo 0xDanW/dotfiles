@@ -20,6 +20,8 @@ tools=(
   "node"
   "tofuenv"
   "opentofu"
+  "mongosh"
+  "postgresql"
 )
 
 # List of casks
