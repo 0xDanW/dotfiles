@@ -7,6 +7,7 @@ fi
 
 # Common tools
 tools=(
+  "awscli"
   "git"
   "gh"
   "go"
