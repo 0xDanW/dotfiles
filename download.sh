@@ -13,6 +13,7 @@ tools=(
   "go"
   "jq"
   "yq"
+  "gnupg"
   "kubectx"
   "kubernetes-cli"
   "kustomize"
