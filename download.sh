@@ -27,6 +27,7 @@ tools=(
   "opentofu"
   "mongosh"
   "postgresql"
+  "redis"
 )
 
 # List of casks
